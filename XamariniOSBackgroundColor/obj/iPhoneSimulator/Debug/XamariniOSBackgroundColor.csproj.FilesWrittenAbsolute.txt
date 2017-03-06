@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/bin/iPhoneSimulator/Debug/XamariniOSBackgroundColor.exe.mdb
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/bin/iPhoneSimulator/Debug/XamariniOSBackgroundColor.exe
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/obj/iPhoneSimulator/Debug/XamariniOSBackgroundColor.exe
+/Users/DELPIN/Projects/XamariniOSBackgroundColor/XamariniOSBackgroundColor/obj/iPhoneSimulator/Debug/XamariniOSBackgroundColor.exe.mdb

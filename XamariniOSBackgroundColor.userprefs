@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7990E783-0017-42B2-925C-B19DB80E9D47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSBackgroundColor/ViewController.cs">
+    <Files>
+      <File FileName="XamariniOSBackgroundColor/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamariniOSBackgroundColor/ViewController.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamariniOSBackgroundColor" expanded="True">
+            <Node name="XamariniOSBackgroundColor" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamariniOSBackgroundColor PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53785F66-4F6E-4445-B0E6-E3856D84F8B8" />
+</Properties>
